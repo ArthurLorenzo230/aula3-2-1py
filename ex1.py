@@ -1,3 +1,4 @@
 def treinei(treino):
-    print(f"eu {treinei} basquete")
-treinei ("basquete")
+    print(f"Eu treinei {treino}")
+
+treinei("basquete")
